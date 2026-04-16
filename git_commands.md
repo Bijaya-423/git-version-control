@@ -109,3 +109,12 @@ git restore --stage .\hii.txt
  git     add .                                              
  
 git restore --stage hii.txt                                     
+
+
+
+
+=====================================
+git remote add origiin <url>
+git remote -v
+git remote set-url origin <PAC token>
+git push origin main

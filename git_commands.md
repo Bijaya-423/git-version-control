@@ -118,3 +118,7 @@ git remote add origiin <url>
 git remote -v
 git remote set-url origin <PAC token>
 git push origin main
+
+
+git add -a
+

@@ -139,30 +139,16 @@ git status
   84 git status                                                      
   85 git checkout main                                               
   86 git checkout master                                             
-  87 cls                                                             
-  88 git status                                                      
   89 git add .\hii.txt                                               
-  90 git status                                                      
   91 git rm --cached hii.txt                                         
   92 git status                                                      
   93 git init                                                        
   94 cls                                                             
-  95 git status                                                      
-  96 git add .                                                       
-  97 git status                                                      
-  98 git restore --stage .\hii.txt                                   
-  99 git status                                                      
- 100 git add .                                                       
- 101 git status                                                      
- 102 git rm --cached hii.txt                                         
- 103 git status                                                      
- 104 git add .                                                       
- 105 git restore hii.txt                                             
- 106 git status                                                      
- 107 git add .                                                       
- 108 git restore hii.txt                                             
- 109 git status                                                      
- 110 git restore --stage hii.txt                                     
- 111 git status                                                      
- 112 cls                                                             
-                                                         
+   git restore --stage .\hii.txt                                   
+       
+                                                       
+  git rm --cached hii.txt                                         
+
+ git     add .                                              
+ 
+git restore --stage hii.txt                                     

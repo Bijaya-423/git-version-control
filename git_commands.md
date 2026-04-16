@@ -56,16 +56,9 @@ git rm - to stage to untrack
 
 
 git status                                                      
-   4 git branch                                                      
-   5 cls                                                             
-   6 git status                                                      
-   7 cls                                                             
-   8 git status                                                      
-   9 git add .\hii.py                                                
-  10 git status                                                      
-  11 git restore --stage .\hii.py                                    
-  12 git status                                                      
-  13 git add .                                                       
+   git restore --stage .\hii.py  
+  
+  git add .                                                       
   14 git status                                                      
   15 git commit -m                                                   
   16 git commit -m "message"                                         
@@ -74,44 +67,18 @@ git status
   19 git commit -m "message"                                         
   20 git add .                                                       
   21 git commit -m "hello"                                           
-  22 git status                                                      
-  23 cls                                                             
-  24 git status                                                      
-  25 git add .\hii.py                                                
-  26 git status                                                      
+                                                      
   27 git restore .\hii.py                                            
-  28 git status                                                      
-  29 git status                                                      
-  30 git add .\hii.py                                                
-  31 git status                                                      
-  32 cls                                                             
-  33 git status                                                      
-  34 git status                                                      
-  35 git add .                                                       
   36 git status                                                      
   37 git commit -m "message"                                         
   38 git status                                                      
-  39 git --version                                                   
-  40 cls                                                             
-  41 git --version                                                   
-  42 cls                                                             
+  39 git --version                                         
+
   43 python .\testing.py                                             
-  44 git status                                                      
-  45 git status                                                      
-  46 git init                                                        
-  47 cls                                                             
+                                                             
   48 git init                                                        
   49 git status                                                      
   50 git checkout master                                             
-  51 cls                                                             
-  52 cd .\git\                                                       
-  53 git status                                                      
-  54 git init                                                        
-  55 git status                                                      
-  56 cls                                                             
-  57 git status                                                      
-  58   cls                                                           
-  59 git status                                                      
   60 git add .\testing.py                                            
   61 git status                                                      
   62 git restore --stage .\testing.py                                
@@ -124,27 +91,17 @@ git status
   69 git status                                                      
   70 git add .                                                       
   71 git status                                                      
-  72 git commit -m "add new file"                                    
-  73 git status                                                      
-  74 git restore hee.txt                                             
-  75 git status                                                      
-  76 git status                                                      
-  77 git status                                                      
-  78 git add git.txt                                                 
-  79 git status                                                      
-  80 git status                                                      
-  81 git commit -m "added new file"                                  
+   git commit -m "add new file"                                    
+  
+   git restore hee.txt                                             
+   git commit -m "added new file"                                  
   82 git status                                                      
   83 cls                                                             
   84 git status                                                      
   85 git checkout main                                               
   86 git checkout master                                             
-  89 git add .\hii.txt                                               
-  91 git rm --cached hii.txt                                         
-  92 git status                                                      
-  93 git init                                                        
-  94 cls                                                             
-   git restore --stage .\hii.txt                                   
+git rm --cached hii.txt                                         
+git restore --stage .\hii.txt                                   
        
                                                        
   git rm --cached hii.txt                                         

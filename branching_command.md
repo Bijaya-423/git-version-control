@@ -10,3 +10,7 @@ work                |               |
 -multiple           |               |
 developer           |               |
 feature branch      |               |
+
+
+
+some changes in staging not affect in main/master branch 

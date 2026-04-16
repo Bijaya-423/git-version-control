@@ -14,3 +14,4 @@ feature branch      |               |
 
 
 some changes in staging not affect in main/master branch 
+git staging staging branch not affect first staging branch 

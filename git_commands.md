@@ -120,5 +120,9 @@ git remote set-url origin <PAC token>
 git push origin main
 
 
+<<<<<<< HEAD
 git add -a
 
+=======
+this is some new changes
+>>>>>>> d6fae0c4ca506bd93bb74f3e4202d8a74fcc2f66
